@@ -1,1 +1,1 @@
-from gcr.io/kfserving/storage-initializer:v0.4.0
+from gcr.io/distroless/static:latest-amd64
